@@ -14,8 +14,13 @@ Description: Preforms a sentiment analysis on the tweets and facebook updates re
 License: MIT
 
 Encoding: UTF-8
+
 LazyData: true
+
 RoxygenNote: 6.0.1
+
 Imports: shiny, quantmod, Rfacebook, stringr, twitteR, ROAuth, httr,
         plyr, ggplot2, plotly, forecast, tseries, DT
+        
 Packaged: 2017-05-08 02:44:59 UTC; Sri
+
