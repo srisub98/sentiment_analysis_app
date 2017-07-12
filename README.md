@@ -3,7 +3,7 @@ Title: Portfolio Sentiment Analysis
 
 Version: 0.1.0
 
-Authors: Srivathsan Subramanian,email = "ss4@illinois.edu"
+Authors: Srivathsan Subramanian, email = "ss4@illinois.edu"
          Pranay Marella, email = "marella2@illinois.edu"
          Srikrishna Venkat, email = "srikrishnav22@gmail.com"
          Benoit Yen, email = "byen2@illinois.edu"
