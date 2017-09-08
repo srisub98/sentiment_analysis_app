@@ -38,10 +38,10 @@ sentapp <- function(){
     values$portfolio <- data.frame(Ticker = NA, Name = NA, Price = NA, twitter_sentiment = NA, facebook_sentiment = NA, Correlation = NA)
 
     # API Credentials
-    api_key <- "ZHQojhuLbBlwDxlWc3Sko8pQ0"
-    api_secret <- "cpfZrCBzSvNzvjCziLv8wuA55k52LY9NWtdWl4m5JzQoP5pjdL"
-    token <- "2944605422-qOXK0fDvsie6HwVvpioAj9xFFRAal8mFM3XqAOx"
-    token_secret <- "f1E9nPCWWQEdu3ur4IKMN7oE5pPo3X7mSmJF11v7GBiOe"
+    api_key <- ""
+    api_secret <- ""
+    token <- ""
+    token_secret <- ""
 
     # Connect to Twitter
     setup_twitter_oauth(api_key, api_secret, token, token_secret)
