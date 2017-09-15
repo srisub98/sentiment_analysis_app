@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+export(sentapp)
+import(shiny)
+import(plotly)
+importFrom("stats", "cor", "residuals")
+importFrom("utils", "installed.packages")
